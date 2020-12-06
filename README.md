@@ -9,7 +9,7 @@ Here's my attempt on solving AoC 2020 in Ruby :christmas_tree:
 |[Day 03: Toboggan Trajectory](https://adventofcode.com/2020/day/3)|[day03.rb](/day03.rb)|:star: :star:|
 |[Day 04: Passport Processing](https://adventofcode.com/2020/day/4)|[day04.rb](/day04.rb)|:star: :star:|
 |[Day 05: Binary Boarding](https://adventofcode.com/2020/day/5)|[day05.rb](/day05.rb)|:star: :star:|
-|[Day 06: ???](https://adventofcode.com/2020/day/6)|not available|:white_circle: :white_circle:|
+|[Day 06: Custom Customs](https://adventofcode.com/2020/day/6)|[day06.rb](/day06.rb)|:star: :star:|
 |[Day 07: ???](https://adventofcode.com/2020/day/7)|not available|:white_circle: :white_circle:|
 |[Day 08: ???](https://adventofcode.com/2020/day/8)|not available|:white_circle: :white_circle:|
 |[Day 09: ???](https://adventofcode.com/2020/day/9)|not available|:white_circle: :white_circle:|
