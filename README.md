@@ -11,7 +11,7 @@ Here's my attempt on solving AoC 2020 in Ruby :christmas_tree:
 |[Day 05: Binary Boarding](https://adventofcode.com/2020/day/5)|[day05.rb](/day05.rb)|:star: :star:|
 |[Day 06: Custom Customs](https://adventofcode.com/2020/day/6)|[day06.rb](/day06.rb)|:star: :star:|
 |[Day 07: Handy Haversacks](https://adventofcode.com/2020/day/7)|[day07.rb](/day07.rb)|:star: :star:|
-|[Day 08: ???](https://adventofcode.com/2020/day/8)|not available|:white_circle: :white_circle:|
+|[Day 08: Handheld Halting](https://adventofcode.com/2020/day/8)|[day08.rb](/day08.rb)|:star: :star:|
 |[Day 09: ???](https://adventofcode.com/2020/day/9)|not available|:white_circle: :white_circle:|
 |[Day 10: ???](https://adventofcode.com/2020/day/10)|not available|:white_circle: :white_circle:|
 |[Day 11: ???](https://adventofcode.com/2020/day/11)|not available|:white_circle: :white_circle:|
