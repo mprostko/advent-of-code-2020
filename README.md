@@ -13,7 +13,7 @@ Here's my attempt on solving AoC 2020 in Ruby :christmas_tree:
 |[Day 07: Handy Haversacks](https://adventofcode.com/2020/day/7)|[day07.rb](/day07.rb)|:star: :star:|
 |[Day 08: Handheld Halting](https://adventofcode.com/2020/day/8)|[day08.rb](/day08.rb)|:star: :star:|
 |[Day 09: Encoding Error](https://adventofcode.com/2020/day/9)|[day09.rb](/day09.rb)|:star: :star:|
-|[Day 10: ???](https://adventofcode.com/2020/day/10)|not available|:white_circle: :white_circle:|
+|[Day 10: Adapter Array](https://adventofcode.com/2020/day/10)|[day10.rb](/day10.rb)|:star: :white_circle:|
 |[Day 11: ???](https://adventofcode.com/2020/day/11)|not available|:white_circle: :white_circle:|
 |[Day 12: ???](https://adventofcode.com/2020/day/12)|not available|:white_circle: :white_circle:|
 |[Day 13: ???](https://adventofcode.com/2020/day/13)|not available|:white_circle: :white_circle:|
