@@ -15,9 +15,9 @@ Here's my attempt on solving AoC 2020 in Ruby :christmas_tree:
 |[Day 09: Encoding Error](https://adventofcode.com/2020/day/9)|[day09.rb](/day09.rb)|:star: :star:|
 |[Day 10: Adapter Array](https://adventofcode.com/2020/day/10)|[day10.rb](/day10.rb)|:star: :white_circle:|
 |[Day 11: Seating System](https://adventofcode.com/2020/day/11)|[day11.rb](/day11.rb)|:star: :star:|
-|[Day 12: Rain Risk](https://adventofcode.com/2020/day/12)|[day12.rb](/day11.rb)|:star: :star:|
-|[Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)|[day13.rb](/day11.rb)|:star: :star:|
-|[Day 14: ???](https://adventofcode.com/2020/day/14)|not available|:white_circle: :white_circle:|
+|[Day 12: Rain Risk](https://adventofcode.com/2020/day/12)|[day12.rb](/day12.rb)|:star: :star:|
+|[Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)|[day13.rb](/day13.rb)|:star: :star:|
+|[Day 14: Docking Data](https://adventofcode.com/2020/day/14)|[day14.rb](/day14.rb)|:star: :star:|
 |[Day 15: ???](https://adventofcode.com/2020/day/15)|not available|:white_circle: :white_circle:|
 |[Day 16: ???](https://adventofcode.com/2020/day/16)|not available|:white_circle: :white_circle:|
 |[Day 17: ???](https://adventofcode.com/2020/day/17)|not available|:white_circle: :white_circle:|
