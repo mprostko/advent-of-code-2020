@@ -18,7 +18,7 @@ Here's my attempt on solving AoC 2020 in Ruby :christmas_tree:
 |[Day 12: Rain Risk](https://adventofcode.com/2020/day/12)|[day12.rb](/day12.rb)|:star: :star:|
 |[Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)|[day13.rb](/day13.rb)|:star: :star:|
 |[Day 14: Docking Data](https://adventofcode.com/2020/day/14)|[day14.rb](/day14.rb)|:star: :star:|
-|[Day 15: ???](https://adventofcode.com/2020/day/15)|not available|:white_circle: :white_circle:|
+|[Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)|[day15.rb](/day14.rb)|:star: :star:|
 |[Day 16: ???](https://adventofcode.com/2020/day/16)|not available|:white_circle: :white_circle:|
 |[Day 17: ???](https://adventofcode.com/2020/day/17)|not available|:white_circle: :white_circle:|
 |[Day 18: ???](https://adventofcode.com/2020/day/18)|not available|:white_circle: :white_circle:|
