@@ -20,7 +20,7 @@ Here's my attempt on solving AoC 2020 in Ruby :christmas_tree:
 |[Day 14: Docking Data](https://adventofcode.com/2020/day/14)|[day14.rb](/day14.rb)|:star: :star:|
 |[Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)|[day15.rb](/day14.rb)|:star: :star:|
 |[Day 16: ???](https://adventofcode.com/2020/day/16)|not available|:white_circle: :white_circle:|
-|[Day 17: ???](https://adventofcode.com/2020/day/17)|not available|:white_circle: :white_circle:|
+|[Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)|[day17.rb](/day17.rb)||:star: :star:|
 |[Day 18: ???](https://adventofcode.com/2020/day/18)|not available|:white_circle: :white_circle:|
 |[Day 19: ???](https://adventofcode.com/2020/day/19)|not available|:white_circle: :white_circle:|
 |[Day 20: ???](https://adventofcode.com/2020/day/20)|not available|:white_circle: :white_circle:|
